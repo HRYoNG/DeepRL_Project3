@@ -73,4 +73,4 @@ To set up your python environment to run the code in this repository, follow the
    - Run the codes below '4. It's Your Turn!' in 'Continuous_Control.ipynb' to check the trained agent.
    - 'maddpg_agent.py','model.py', 'checkpoint_actor.pth' and 'checkpoint_critic.pth' should be included in the same project with 'Tennis.ipynb'.
    - Experiment results of the trained model was already recorded in the notebook files.
-   - checkpoint_actor.pth' and 'checkpoint_critic.pth contain trained networks' weights.
+   - 'checkpoint_actor1.pth', 'checkpoint_actor2.pth', 'checkpoint_critic2.pth' and 'checkpoint_critic.pth' contain trained networks' weights.
