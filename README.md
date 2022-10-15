@@ -16,7 +16,7 @@
 
 ### 2. Getting Started
 
-    - File list  : ① Tennis.ipynb ② maddpg_agent.py ③ model.py ④ checkpoint_actor.pth ⑤ checkpoint_critic.pth
+    File list  : ① Tennis.ipynb ② maddpg_agent.py ③ model.py ④ checkpoint_actor1.pth ⑤ checkpoint_critic1.pth ⑥ checkpoint_actor2.pth ⑦ checkpoint_critic2.pth
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
